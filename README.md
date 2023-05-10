@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sanjaykrishna1203/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://t.me/GKassym)
 
-Welcome to my Github &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sanjaykrishna1203.visitor-badge)
+Welcome to my Github &nbsp; 
 
 I am an enthusiastic Pre-Final year student pursuing Computer science and Engineering from Sathyabama Institute of Science and Technology, Chennai.
 
