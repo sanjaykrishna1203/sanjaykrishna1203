@@ -8,9 +8,9 @@
 
 Welcome to my Github &nbsp; 
 
-I am an enthusiastic Pre-Final year student pursuing Computer science and Engineering from Sathyabama Institute of Science and Technology, Chennai.
+I am an enthusiastic Final year student pursuing Computer Science and Engineering from Sathyabama Institute of Science and Technology, Chennai.
 
-I am a Full Stack Web developer with good experience in HTML, CSS and Javascript. Iam also familiar with the languages like C, C++, Python and C#. I have also worked with the technologies like .Net core, Angular, firebase, PHP and node.js.
+I am a Full Stack Web developer with good experience in HTML, CSS and Javascript. I am also familiar with the languages like C, C++, Python and C#. I have also worked with the technologies like .Net core, Angular, firebase, PHP and node.js.
 
 ### :hammer_and_wrench: Languages and Tools :
 
