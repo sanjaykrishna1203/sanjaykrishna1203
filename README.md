@@ -48,5 +48,5 @@ I am a Full Stack Web developer with good experience in HTML, CSS and Javascript
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40"/>&nbsp;
 </div>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjaykrishna1203&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&&&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" />
+
 
